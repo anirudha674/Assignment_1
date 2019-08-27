@@ -7,15 +7,6 @@ public class Question_4 {
 		greatest=d>greatest?d:greatest;
 		System.out.println(greatest);
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
